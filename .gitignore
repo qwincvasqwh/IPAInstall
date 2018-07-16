@@ -4,7 +4,7 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+#Icon
 
 
 # Thumbnails
@@ -53,7 +53,7 @@ xcuserdata
 
 ## Obj-C/Swift specific
 *.hmap
-*.ipa
+#*.ipa
 
 # CocoaPods
 #
