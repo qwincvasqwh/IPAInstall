@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.outline.ios.client</string>
+				<string>com.ss.ss</string>
 				<key>bundle-version</key>
 				<string>1.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Outline</string>
+				<string>ss</string>
 			</dict>
 		</dict>
 	</array>
